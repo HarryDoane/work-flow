@@ -8,4 +8,5 @@ Harrison Doane's suite of tools — a hub linking to the repositories that make 
 
 ## Tools
 
-See [`tools/`](./tools) for individual tool write-ups and install instructions.
+- [WezTerm](./tools/wezterm.md) — GPU-accelerated terminal emulator
+- [MarkItDown](./tools/markitdown.md) — convert PDF/DOCX/etc. to Markdown
