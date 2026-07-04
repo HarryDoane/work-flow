@@ -1,8 +1,8 @@
 # WezTerm
 
-A GPU-accelerated cross-platform terminal emulator and multiplexer, configured in Lua.
+A GPU-accelerated cross-platform terminal emulator and multiplexer, written in Rust and configured in Lua.
 
-- Repo: https://github.com/wez/wezterm
+- Website: https://wezterm.org
 
 ## Install (macOS)
 
