@@ -10,3 +10,4 @@ Harrison Doane's suite of tools — a hub linking to the repositories that make 
 
 - [WezTerm](./tools/wezterm.md) — GPU-accelerated terminal emulator
 - [MarkItDown](./tools/markitdown.md) — convert PDF/DOCX/etc. to Markdown
+- [Obsidian](./tools/obsidian.md) — local-first Markdown note-taking app
